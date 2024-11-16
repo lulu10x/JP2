@@ -1,0 +1,3 @@
+101; 1; ProductA; 2; 120.00; 240.00
+101; 1; ProductB; 1; 125.00; 125.00
+TotalBillingAmount: 365.00
